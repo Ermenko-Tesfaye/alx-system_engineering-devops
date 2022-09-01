@@ -1,2 +1,2 @@
 #!/bin/bash
-suco chmod x hello
+suco chmod u+x hello
