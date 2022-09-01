@@ -1,2 +1,2 @@
 #!/bin/bash
-suco chmod +100 hello
+sudo chmod +100 hello
