@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +111 $(/path/to/base/dir -type d) 
+find . -type d -exec chmod +111 {} +
